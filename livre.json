@@ -33,14 +33,3 @@
     }
   ]
 }
-```
-
-5. Clique **"Commit changes"** ✅
-
----
-
-## ÉTAPE 4 — Vérifier l'URL du JSON
-
-Attends 2-3 minutes puis teste cette URL dans ton navigateur :
-```
-https://TON_USERNAME.github.io/ar-livre-assets/livre.json
