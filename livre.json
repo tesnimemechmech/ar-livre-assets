@@ -1,0 +1,46 @@
+{
+  "pages": [
+    {
+      "id": "page1",
+      "nom": "Les Animaux",
+      "feuille": "feuille_complete",
+      "items": [
+        {
+          "nom": "fox",
+          "x": -0.05,
+          "y": 0,
+          "z": 0.07
+        },
+        {
+          "nom": "owl",
+          "x": 0.05,
+          "y": 0,
+          "z": 0.07
+        },
+        {
+          "nom": "squirrel",
+          "x": -0.05,
+          "y": 0,
+          "z": -0.07
+        },
+        {
+          "nom": "hedgehog",
+          "x": 0.05,
+          "y": 0,
+          "z": -0.07
+        }
+      ]
+    }
+  ]
+}
+```
+
+5. Clique **"Commit changes"** ✅
+
+---
+
+## ÉTAPE 4 — Vérifier l'URL du JSON
+
+Attends 2-3 minutes puis teste cette URL dans ton navigateur :
+```
+https://TON_USERNAME.github.io/ar-livre-assets/livre.json
