@@ -2,32 +2,51 @@
   "pages": [
     {
       "id": "page1",
-      "nom": "Les Animaux",
-      "feuille": "fv",
+      "nom": "Les Animaux de la Forêt",
+      "feuille": "F1",
       "items": [
         {
           "nom": "fox",
-          "x": -0.05,
+          "x": -0.052,
           "y": 0,
-          "z": 0.07
-        },
-        {
-          "nom": "owl",
-          "x": 0.05,
-          "y": 0,
-          "z": 0.07
-        },
-        {
-          "nom": "squirrel",
-          "x": -0.05,
-          "y": 0,
-          "z": -0.07
+          "z": 0.107
         },
         {
           "nom": "hedgehog",
-          "x": 0.05,
+          "x": 0.052,
           "y": 0,
-          "z": -0.07
+          "z": 0.0
+        },
+        {
+          "nom": "squirrel",
+          "x": -0.052,
+          "y": 0,
+          "z": -0.100
+        }
+      ]
+    },
+    {
+      "id": "page2",
+      "nom": "Les Ours",
+      "feuille": "F2",
+      "items": [
+        {
+          "nom": "panda",
+          "x": -0.052,
+          "y": 0,
+          "z": 0.107
+        },
+        {
+          "nom": "blackbear",
+          "x": 0.052,
+          "y": 0,
+          "z": 0.0
+        },
+        {
+          "nom": "whitebear",
+          "x": -0.052,
+          "y": 0,
+          "z": -0.100
         }
       ]
     }
